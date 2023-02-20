@@ -1,5 +1,5 @@
-This script was used to create the maps of the paper
-#Libraries needed
+# This script was used to create the maps of the paper
+# #Libraries needed
 
 
 library(ggplot2)
@@ -19,7 +19,7 @@ library(grid)
 library(gridExtra)
 
 
-Read the final data which is already updloaded on the repository
+#Read the final data which is already updloaded on the repository
 
 
 NHW_Final <- read_csv("~20210706_NHW_Final.csv")
@@ -29,7 +29,7 @@ Hispanic_Final <- read_csv("20210706_Hispanic_Final.csv")
 fifty_states<-read_csv("fifty_states.csv") # this can be extracted from fifty states R library 
 
 
-Lets create centeriod of the states to show state observations
+#Lets create centeriod of the states to show state observations
 
 
 #Centroid
@@ -42,8 +42,8 @@ centroids<-rbind(centroids,c)
 
 
 
-The following code will create a US map for infection rates of NHW population
-Data for NHW maps
+# The following code will create a US map for infection rates of NHW population
+# Data for NHW maps
 
 
 x<-NHW_Final
@@ -78,7 +78,7 @@ ggplot(map.df, aes(x=long,y=lat,group=group)) + theme_bw()+
               axis.text.y = element_text(size=12, face="bold", colour = "black"), # bold
             )
 
-Similary for NHW mortality rates, the map can be obtained using
+# Similary for NHW mortality rates, the map can be obtained using
 
 
 
@@ -101,8 +101,8 @@ ggplot(map.df, aes(x=long,y=lat,group=group))+theme_bw()+
 
 
 
-NHB data for  maps of infection and mortality
-Lets create the data for maps
+# NHB data for  maps of infection and mortality
+# Lets create the data for maps
 
 
 x<-NHB_Final
@@ -117,7 +117,7 @@ summary(x$`NHB % known Death`)
 
 
 
-NHB Infection rate
+# NHB Infection rate
 
 
 
@@ -141,7 +141,7 @@ ggplot(map.df, aes(x=long,y=lat,group=group))+ theme_bw()+
 
 
 
-NHB mortality rate
+# NHB mortality rate
 
 
 
@@ -163,8 +163,8 @@ ggplot(map.df, aes(x=long,y=lat,group=group))+ theme_bw()+
             )
 
 
-For Hispanic maps of infection and mortality
-Lets create the data for maps
+# For Hispanic maps of infection and mortality
+# Lets create the data for maps
 
 
 x<-Hispanic_Final
@@ -177,7 +177,7 @@ x%>%glimpse()
 summary(x$`Hispanic % known Cases`)
 summary(x$`Hispanic % known Death`)
 
-Hispanic Infection rate
+# Hispanic Infection rate
 
 
 
@@ -200,7 +200,7 @@ ggplot(map.df, aes(x=long,y=lat,group=group))+ theme_bw()+
 
 
 
-Hispanic mortality rate
+# Hispanic mortality rate
 
 
 
@@ -222,4 +222,4 @@ ggplot(map.df, aes(x=long,y=lat,group=group))+ theme_bw()+
             )
 
 
-Finally combine them all to get figure#1
+# Finally combine them all to get figure#1
