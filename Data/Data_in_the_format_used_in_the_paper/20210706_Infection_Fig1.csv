@@ -1,0 +1,375 @@
+State,Region,Race,Population,Group
+Alabama,South,NHW,50.9186323423239,Infection
+Alaska,West,NHW,45.00397140587768,Infection
+Arizona,West,NHW,36.20052312701844,Infection
+Arkansas,South,NHW,63.73357244185113,Infection
+California,West,NHW,17.14476943589126,Infection
+Colorado,West,NHW,44.78243007292273,Infection
+Connecticut,Northeast,NHW,49.29577464788733,Infection
+Delaware,South,NHW,39.95787256450763,Infection
+District of Columbia,South,NHW,21.88647089669638,Infection
+Florida,South,NHW,33.99683435362441,Infection
+Georgia,South,NHW,41.77946127946128,Infection
+Hawaii,West,NHW,15.944013388102846,Infection
+Idaho,West,NHW,74.71227161559489,Infection
+Illinois,Midwest,NHW,39.47574727208087,Infection
+Indiana,Midwest,NHW,68.3993158399733,Infection
+Iowa,Midwest,NHW,84.59919006624293,Infection
+Kansas,Midwest,NHW,80.63976457308716,Infection
+Kentucky,South,NHW,80.46038774018828,Infection
+Louisiana,South,NHW,43.53386925405449,Infection
+Maine,Northeast,NHW,73.90685377262558,Infection
+Maryland,South,NHW,29.588319182493883,Infection
+Massachusetts,Northeast,NHW,43.35468707751825,Infection
+Michigan,Midwest,NHW,58.561579388568596,Infection
+Minnesota,Midwest,NHW,54.148544292561695,Infection
+Mississippi,South,NHW,42.06506869684173,Infection
+Missouri,Midwest,NHW,71.18099297126105,Infection
+Montana,West,NHW,71.92797848708055,Infection
+Nebraska,Midwest,NHW,81.164534627260693,Infection
+Nevada,West,NHW,28.270578592576484,Infection
+New Hampshire,Northeast,NHW,74.12731006160165,Infection
+New Jersey,Northeast,NHW,37.90807126235531,Infection
+New Mexico,West,NHW,16.06529526904753,Infection
+North Carolina,South,NHW,58.0251949610078,Infection
+Ohio,Midwest,NHW,63.93519605541207,Infection
+Oklahoma,South,NHW,70.27591855178062,Infection
+Oregon,West,NHW,47.584737162573575,Infection
+Pennsylvania,Northeast,NHW,70.77555748624384,Infection
+Rhode Island,Northeast,NHW,37.831192292252105,Infection
+South Carolina,South,NHW,53.548617038238966,Infection
+South Dakota,Midwest,NHW,61.54361516816294,Infection
+Tennessee,South,NHW,63.756590328084684,Infection
+Texas,South,NHW,33.91280353200883,Infection
+Utah,West,NHW,53.80888740394253,Infection
+Vermont,Northeast,NHW,83.93574297188755,Infection
+Virginia,South,NHW,36.86622130866735,Infection
+Washington,West,NHW,39.25635088425786,Infection
+West Virginia,South,NHW,78.2180716809692,Infection
+Wisconsin,Midwest,NHW,77.4229591532117,Infection
+Wyoming,West,NHW,68.90091590341382,Infection
+Alabama,South,NHB,36.5696490339544,Infection
+Alaska,West,NHB,6.16362192216044,Infection
+Arizona,West,NHB,4.43857261056396,Infection
+Arkansas,South,NHB,23.4094376488852,Infection
+California,West,NHB,4.2668923644618,Infection
+Colorado,West,NHB,5.02242459515903,Infection
+Connecticut,Northeast,NHB,18.2975259613724,Infection
+Delaware,South,NHB,28.7045813586098,Infection
+District of Columbia,South,NHB,50.8521237545884,Infection
+Florida,South,NHB,19.3648875185224,Infection
+Georgia,South,NHB,34.9873737373737,Infection
+Hawaii,West,NHB,2.4950555301993,Infection
+Idaho,West,NHB,1.32714717306862,Infection
+Illinois,Midwest,NHB,18.1049963992379,Infection
+Indiana,Midwest,NHB,12.0405907137791,Infection
+Iowa,Midwest,NHB,7.14860407112398,Infection
+Kansas,Midwest,NHB,8.36692735628477,Infection
+Kentucky,South,NHB,12.044878132657,Infection
+Louisiana,South,NHB,40.4426357676964,Infection
+Maine,Northeast,NHB,19.8901769371568,Infection
+Maryland,South,NHB,37.3128830879367,Infection
+Massachusetts,Northeast,NHB,12.9339212546018,Infection
+Michigan,Midwest,NHB,23.4932338802115,Infection
+Minnesota,Midwest,NHB,18.7733001952778,Infection
+Mississippi,South,NHB,45.6218402426694,Infection
+Missouri,Midwest,NHB,20.5787819207177,Infection
+Nebraska,Midwest,NHB,6.76371121893839,Infection
+Nevada,West,NHB,8.30336383252764,Infection
+New Hampshire,Northeast,NHB,5.22929500342231,Infection
+New Jersey,Northeast,NHB,16.0048485936834,Infection
+New Mexico,West,NHB,1.93152860361192,Infection
+North Carolina,South,NHB,23.2627474505099,Infection
+Ohio,Midwest,NHB,22.2631486264381,Infection
+Oklahoma,South,NHB,8.78590188935017,Infection
+Oregon,West,NHB,3.89012921994452,Infection
+Pennsylvania,Northeast,NHB,24.1297422531132,Infection
+Rhode Island,Northeast,NHB,12.3695303091128,Infection
+South Carolina,South,NHB,36.2008647614403,Infection
+South Dakota,Midwest,NHB,5.73495913171647,Infection
+Tennessee,South,NHB,21.0412275574606,Infection
+Texas,South,NHB,18.8656817795891,Infection
+Utah,West,NHB,2.23703793700453,Infection
+Virginia,South,NHB,25.4188078108941,Infection
+Washington,West,NHB,5.89449310379543,Infection
+West Virginia,South,NHB,5.80514891468955,Infection
+Wisconsin,Midwest,NHB,10.1822710097831,Infection
+Wyoming,West,NHB,1.14487926727727,Infection
+Alabama,South,Hispanic,8.256376547666513,Infection
+Alaska,West,Hispanic,11.612390786338365,Infection
+Arizona,West,Hispanic,44.62260122240905,Infection
+Arkansas,South,Hispanic,20.16139824951152,Infection
+California,West,Hispanic,61.0729734563103,Infection
+Colorado,West,Hispanic,44.26375432229792,Infection
+Connecticut,Northeast,Hispanic,27.890283910115688,Infection
+Delaware,South,Hispanic,24.94470774091627,Infection
+District of Columbia,South,Hispanic,25.367068694284217,Infection
+Florida,South,Hispanic,37.98813069704091,Infection
+Georgia,South,Hispanic,17.185185185185183,Infection
+Idaho,West,Hispanic,26.3199539634585,Infection
+Illinois,Midwest,Hispanic,34.21453249345937,Infection
+Indiana,Midwest,Hispanic,10.803679445997247,Infection
+Iowa,Midwest,Hispanic,15.489312629066433,Infection
+Kansas,Midwest,Hispanic,29.895992904942354,Infection
+Kentucky,South,Hispanic,10.030950436315178,Infection
+Maine,Northeast,Hispanic,4.148871262965223,Infection
+Maryland,South,Hispanic,25.46301105937686,Infection
+Massachusetts,Northeast,Hispanic,31.735269036377627,Infection
+Michigan,Midwest,Hispanic,8.531640805433426,Infection
+Minnesota,Midwest,Hispanic,16.984732824427482,Infection
+Mississippi,South,Hispanic,3.4330577529292814,Infection
+Missouri,Midwest,Hispanic,9.487031564571389,Infection
+Nebraska,Midwest,Hispanic,35.288928098808995,Infection
+Nevada,West,Hispanic,45.25032199789238,Infection
+New Hampshire,Northeast,Hispanic,14.004106776180697,Infection
+New Jersey,Northeast,Hispanic,29.38262736911416,Infection
+New Mexico,West,Hispanic,49.65468848099863,Infection
+North Carolina,South,Hispanic,28.34133173365327,Infection
+Ohio,Midwest,Hispanic,6.829654848555999,Infection
+Oklahoma,South,Hispanic,20.04010279872349,Infection
+Oregon,West,Hispanic,43.7182869900548,Infection
+Pennsylvania,Northeast,Hispanic,15.057051838980598,Infection
+Rhode Island,Northeast,Hispanic,45.1224407868326,Infection
+South Carolina,South,Hispanic,10.902371997486377,Infection
+South Dakota,Midwest,Hispanic,6.9543079190674,Infection
+Tennessee,South,Hispanic,14.943587381994014,Infection
+Texas,South,Hispanic,45.007641365257264,Infection
+Utah,West,Hispanic,35.21398414482277,Infection
+Vermont,Northeast,Hispanic,3.384968445209409,Infection
+Virginia,South,Hispanic,29.798732442617336,Infection
+Washington,West,Hispanic,41.237961005402866,Infection
+Wisconsin,Midwest,Hispanic,18.001927620412307,Infection
+Wyoming,West,Hispanic,14.592006661115736,Infection
+Alabama,South,NHA,0.5926660273057403,Infection
+Alaska,West,NHA,5.369340746624305,Infection
+Arizona,West,NHA,1.506659193423546,Infection
+Arkansas,South,NHA,1.291453654880758,Infection
+California,West,NHA,5.5275892536214055,Infection
+Colorado,West,NHA,2.29381355061796,Infection
+Connecticut,Northeast,NHA,2.079376433733751,Infection
+Delaware,South,NHA,1.4323328067403895,Infection
+District of Columbia,South,NHA,1.6255899318300997,Infection
+Georgia,South,NHA,2.1342592592592595,Infection
+Hawaii,West,NHA,35.235052487448655,Infection
+Idaho,West,NHA,1.1077542799597182,Infection
+Illinois,Midwest,NHA,2.999571554891111,Infection
+Indiana,Midwest,NHA,1.4277668849860248,Infection
+Iowa,Midwest,NHA,3.5736315605975273,Infection
+Kansas,Midwest,NHA,3.0254777070063694,Infection
+Kentucky,South,NHA,1.1090573012939002,Infection
+Louisiana,South,NHA,5.558339848579008,Infection
+Maine,Northeast,NHA,2.3998372991661583,Infection
+Maryland,South,NHA,2.229819706657348,Infection
+Massachusetts,Northeast,NHA,3.0845067493084297,Infection
+Michigan,Midwest,NHA,2.252236839854242,Infection
+Minnesota,Midwest,NHA,5.841691816083792,Infection
+Mississippi,South,NHA,0.4211027181347767,Infection
+Missouri,Midwest,NHA,1.2326783380623285,Infection
+Nebraska,Midwest,NHA,4.705190413174533,Infection
+Nevada,West,NHA,7.625913721292006,Infection
+New Hampshire,Northeast,NHA,3.0800821355236137,Infection
+New Jersey,Northeast,NHA,5.031164186251842,Infection
+New Mexico,West,NHA,0.7497137792222182,Infection
+North Carolina,South,NHA,1.943611277744451,Infection
+Ohio,Midwest,NHA,2.8014205212491197,Infection
+Oklahoma,South,NHA,4.017340224236776,Infection
+Oregon,West,NHA,3.3049184764224337,Infection
+Pennsylvania,Northeast,NHA,3.3095858673617147,Infection
+Rhode Island,Northeast,NHA,1.947009233239663,Infection
+South Carolina,South,NHA,1.3168384621877902,Infection
+South Dakota,Midwest,NHA,3.6044486131582474,Infection
+Tennessee,South,NHA,1.0721644615266537,Infection
+Texas,South,NHA,1.7002037697401935,Infection
+Utah,West,NHA,2.513440451963673,Infection
+Vermont,Northeast,NHA,3.7865748709122204,Infection
+Virginia,South,NHA,3.873758136348064,Infection
+Washington,West,NHA,4.899493271586295,Infection
+Wisconsin,Midwest,NHA,2.5673174517881665,Infection
+Wyoming,West,NHA,0.7285595337218984,Infection
+Alabama,All Regions,NHW,50.9186323423239,Infection
+Alaska,All Regions,NHW,45.00397140587768,Infection
+Arizona,All Regions,NHW,36.20052312701844,Infection
+Arkansas,All Regions,NHW,63.73357244185113,Infection
+California,All Regions,NHW,17.14476943589126,Infection
+Colorado,All Regions,NHW,44.78243007292273,Infection
+Connecticut,All Regions,NHW,49.29577464788733,Infection
+Delaware,All Regions,NHW,39.95787256450763,Infection
+District of Columbia,All Regions,NHW,21.88647089669638,Infection
+Florida,All Regions,NHW,33.99683435362441,Infection
+Georgia,All Regions,NHW,41.77946127946128,Infection
+Hawaii,All Regions,NHW,15.944013388102846,Infection
+Idaho,All Regions,NHW,74.71227161559489,Infection
+Illinois,All Regions,NHW,39.47574727208087,Infection
+Indiana,All Regions,NHW,68.3993158399733,Infection
+Iowa,All Regions,NHW,84.59919006624293,Infection
+Kansas,All Regions,NHW,80.63976457308716,Infection
+Kentucky,All Regions,NHW,80.46038774018828,Infection
+Louisiana,All Regions,NHW,43.53386925405449,Infection
+Maine,All Regions,NHW,73.90685377262558,Infection
+Maryland,All Regions,NHW,29.588319182493883,Infection
+Massachusetts,All Regions,NHW,43.35468707751825,Infection
+Michigan,All Regions,NHW,58.561579388568596,Infection
+Minnesota,All Regions,NHW,54.148544292561695,Infection
+Mississippi,All Regions,NHW,42.06506869684173,Infection
+Missouri,All Regions,NHW,71.18099297126105,Infection
+Montana,All Regions,NHW,71.92797848708055,Infection
+Nebraska,All Regions,NHW,81.164534627260693,Infection
+Nevada,All Regions,NHW,28.270578592576484,Infection
+New Hampshire,All Regions,NHW,74.12731006160165,Infection
+New Jersey,All Regions,NHW,37.90807126235531,Infection
+New Mexico,All Regions,NHW,16.06529526904753,Infection
+North Carolina,All Regions,NHW,58.0251949610078,Infection
+Ohio,All Regions,NHW,63.93519605541207,Infection
+Oklahoma,All Regions,NHW,70.27591855178062,Infection
+Oregon,All Regions,NHW,47.584737162573575,Infection
+Pennsylvania,All Regions,NHW,70.77555748624384,Infection
+Rhode Island,All Regions,NHW,37.831192292252105,Infection
+South Carolina,All Regions,NHW,53.548617038238966,Infection
+South Dakota,All Regions,NHW,61.54361516816294,Infection
+Tennessee,All Regions,NHW,63.756590328084684,Infection
+Texas,All Regions,NHW,33.91280353200883,Infection
+Utah,All Regions,NHW,53.80888740394253,Infection
+Vermont,All Regions,NHW,83.93574297188755,Infection
+Virginia,All Regions,NHW,36.86622130866735,Infection
+Washington,All Regions,NHW,39.25635088425786,Infection
+West Virginia,All Regions,NHW,78.2180716809692,Infection
+Wisconsin,All Regions,NHW,77.4229591532117,Infection
+Wyoming,All Regions,NHW,68.90091590341382,Infection
+Alabama,All Regions,NHB,36.5696490339544,Infection
+Alaska,All Regions,NHB,6.16362192216044,Infection
+Arizona,All Regions,NHB,4.43857261056396,Infection
+Arkansas,All Regions,NHB,23.4094376488852,Infection
+California,All Regions,NHB,4.2668923644618,Infection
+Colorado,All Regions,NHB,5.02242459515903,Infection
+Connecticut,All Regions,NHB,18.2975259613724,Infection
+Delaware,All Regions,NHB,28.7045813586098,Infection
+District of Columbia,All Regions,NHB,50.8521237545884,Infection
+Florida,All Regions,NHB,19.3648875185224,Infection
+Georgia,All Regions,NHB,34.9873737373737,Infection
+Hawaii,All Regions,NHB,2.4950555301993,Infection
+Idaho,All Regions,NHB,1.32714717306862,Infection
+Illinois,All Regions,NHB,18.1049963992379,Infection
+Indiana,All Regions,NHB,12.0405907137791,Infection
+Iowa,All Regions,NHB,7.14860407112398,Infection
+Kansas,All Regions,NHB,8.36692735628477,Infection
+Kentucky,All Regions,NHB,12.044878132657,Infection
+Louisiana,All Regions,NHB,40.4426357676964,Infection
+Maine,All Regions,NHB,19.8901769371568,Infection
+Maryland,All Regions,NHB,37.3128830879367,Infection
+Massachusetts,All Regions,NHB,12.9339212546018,Infection
+Michigan,All Regions,NHB,23.4932338802115,Infection
+Minnesota,All Regions,NHB,18.7733001952778,Infection
+Mississippi,All Regions,NHB,45.6218402426694,Infection
+Missouri,All Regions,NHB,20.5787819207177,Infection
+Nebraska,All Regions,NHB,6.76371121893839,Infection
+Nevada,All Regions,NHB,8.30336383252764,Infection
+New Hampshire,All Regions,NHB,5.22929500342231,Infection
+New Jersey,All Regions,NHB,16.0048485936834,Infection
+New Mexico,All Regions,NHB,1.93152860361192,Infection
+North Carolina,All Regions,NHB,23.2627474505099,Infection
+Ohio,All Regions,NHB,22.2631486264381,Infection
+Oklahoma,All Regions,NHB,8.78590188935017,Infection
+Oregon,All Regions,NHB,3.89012921994452,Infection
+Pennsylvania,All Regions,NHB,24.1297422531132,Infection
+Rhode Island,All Regions,NHB,12.3695303091128,Infection
+South Carolina,All Regions,NHB,36.2008647614403,Infection
+South Dakota,All Regions,NHB,5.73495913171647,Infection
+Tennessee,All Regions,NHB,21.0412275574606,Infection
+Texas,All Regions,NHB,18.8656817795891,Infection
+Utah,All Regions,NHB,2.23703793700453,Infection
+Virginia,All Regions,NHB,25.4188078108941,Infection
+Washington,All Regions,NHB,5.89449310379543,Infection
+West Virginia,All Regions,NHB,5.80514891468955,Infection
+Wisconsin,All Regions,NHB,10.1822710097831,Infection
+Wyoming,All Regions,NHB,1.14487926727727,Infection
+Alabama,All Regions,Hispanic,8.256376547666513,Infection
+Alaska,All Regions,Hispanic,11.612390786338365,Infection
+Arizona,All Regions,Hispanic,44.62260122240905,Infection
+Arkansas,All Regions,Hispanic,20.16139824951152,Infection
+California,All Regions,Hispanic,61.0729734563103,Infection
+Colorado,All Regions,Hispanic,44.26375432229792,Infection
+Connecticut,All Regions,Hispanic,27.890283910115688,Infection
+Delaware,All Regions,Hispanic,24.94470774091627,Infection
+District of Columbia,All Regions,Hispanic,25.367068694284217,Infection
+Florida,All Regions,Hispanic,37.98813069704091,Infection
+Georgia,All Regions,Hispanic,17.185185185185183,Infection
+Idaho,All Regions,Hispanic,26.3199539634585,Infection
+Illinois,All Regions,Hispanic,34.21453249345937,Infection
+Indiana,All Regions,Hispanic,10.803679445997247,Infection
+Iowa,All Regions,Hispanic,15.489312629066433,Infection
+Kansas,All Regions,Hispanic,29.895992904942354,Infection
+Kentucky,All Regions,Hispanic,10.030950436315178,Infection
+Maine,All Regions,Hispanic,4.148871262965223,Infection
+Maryland,All Regions,Hispanic,25.46301105937686,Infection
+Massachusetts,All Regions,Hispanic,31.735269036377627,Infection
+Michigan,All Regions,Hispanic,8.531640805433426,Infection
+Minnesota,All Regions,Hispanic,16.984732824427482,Infection
+Mississippi,All Regions,Hispanic,3.4330577529292814,Infection
+Missouri,All Regions,Hispanic,9.487031564571389,Infection
+Nebraska,All Regions,Hispanic,35.288928098808995,Infection
+Nevada,All Regions,Hispanic,45.25032199789238,Infection
+New Hampshire,All Regions,Hispanic,14.004106776180697,Infection
+New Jersey,All Regions,Hispanic,29.38262736911416,Infection
+New Mexico,All Regions,Hispanic,49.65468848099863,Infection
+North Carolina,All Regions,Hispanic,28.34133173365327,Infection
+Ohio,All Regions,Hispanic,6.829654848555999,Infection
+Oklahoma,All Regions,Hispanic,20.04010279872349,Infection
+Oregon,All Regions,Hispanic,43.7182869900548,Infection
+Pennsylvania,All Regions,Hispanic,15.057051838980598,Infection
+Rhode Island,All Regions,Hispanic,45.1224407868326,Infection
+South Carolina,All Regions,Hispanic,10.902371997486377,Infection
+South Dakota,All Regions,Hispanic,6.9543079190674,Infection
+Tennessee,All Regions,Hispanic,14.943587381994014,Infection
+Texas,All Regions,Hispanic,45.007641365257264,Infection
+Utah,All Regions,Hispanic,35.21398414482277,Infection
+Vermont,All Regions,Hispanic,3.384968445209409,Infection
+Virginia,All Regions,Hispanic,29.798732442617336,Infection
+Washington,All Regions,Hispanic,41.237961005402866,Infection
+Wisconsin,All Regions,Hispanic,18.001927620412307,Infection
+Wyoming,All Regions,Hispanic,14.592006661115736,Infection
+Alabama,All Regions,NHA,0.5926660273057403,Infection
+Alaska,All Regions,NHA,5.369340746624305,Infection
+Arizona,All Regions,NHA,1.506659193423546,Infection
+Arkansas,All Regions,NHA,1.291453654880758,Infection
+California,All Regions,NHA,5.5275892536214055,Infection
+Colorado,All Regions,NHA,2.29381355061796,Infection
+Connecticut,All Regions,NHA,2.079376433733751,Infection
+Delaware,All Regions,NHA,1.4323328067403895,Infection
+District of Columbia,All Regions,NHA,1.6255899318300997,Infection
+Georgia,All Regions,NHA,2.1342592592592595,Infection
+Hawaii,All Regions,NHA,35.235052487448655,Infection
+Idaho,All Regions,NHA,1.1077542799597182,Infection
+Illinois,All Regions,NHA,2.999571554891111,Infection
+Indiana,All Regions,NHA,1.4277668849860248,Infection
+Iowa,All Regions,NHA,3.5736315605975273,Infection
+Kansas,All Regions,NHA,3.0254777070063694,Infection
+Kentucky,All Regions,NHA,1.1090573012939002,Infection
+Louisiana,All Regions,NHA,5.558339848579008,Infection
+Maine,All Regions,NHA,2.3998372991661583,Infection
+Maryland,All Regions,NHA,2.229819706657348,Infection
+Massachusetts,All Regions,NHA,3.0845067493084297,Infection
+Michigan,All Regions,NHA,2.252236839854242,Infection
+Minnesota,All Regions,NHA,5.841691816083792,Infection
+Mississippi,All Regions,NHA,0.4211027181347767,Infection
+Missouri,All Regions,NHA,1.2326783380623285,Infection
+Nebraska,All Regions,NHA,4.705190413174533,Infection
+Nevada,All Regions,NHA,7.625913721292006,Infection
+New Hampshire,All Regions,NHA,3.0800821355236137,Infection
+New Jersey,All Regions,NHA,5.031164186251842,Infection
+New Mexico,All Regions,NHA,0.7497137792222182,Infection
+North Carolina,All Regions,NHA,1.943611277744451,Infection
+Ohio,All Regions,NHA,2.8014205212491197,Infection
+Oklahoma,All Regions,NHA,4.017340224236776,Infection
+Oregon,All Regions,NHA,3.3049184764224337,Infection
+Pennsylvania,All Regions,NHA,3.3095858673617147,Infection
+Rhode Island,All Regions,NHA,1.947009233239663,Infection
+South Carolina,All Regions,NHA,1.3168384621877902,Infection
+South Dakota,All Regions,NHA,3.6044486131582474,Infection
+Tennessee,All Regions,NHA,1.0721644615266537,Infection
+Texas,All Regions,NHA,1.7002037697401935,Infection
+Utah,All Regions,NHA,2.513440451963673,Infection
+Vermont,All Regions,NHA,3.7865748709122204,Infection
+Virginia,All Regions,NHA,3.873758136348064,Infection
+Washington,All Regions,NHA,4.899493271586295,Infection
+Wisconsin,All Regions,NHA,2.5673174517881665,Infection
+Wyoming,All Regions,NHA,0.7285595337218984,Infection

@@ -1,0 +1,387 @@
+State,Region,Race,Population,Group
+Alabama,South,NHW,65.4,Population
+Alaska,West,NHW,60,Population
+Arizona,West,NHW,54.2,Population
+Arkansas,South,NHW,72.1,Population
+California,West,NHW,36.4,Population
+Colorado,West,NHW,67.80000000000001,Population
+Connecticut,Northeast,NHW,65.7,Population
+Delaware,South,NHW,61.4,Population
+District of Columbia,South,NHW,36.7,Population
+Florida,South,NHW,53,Population
+Georgia,South,NHW,52,Population
+Hawaii,West,NHW,20.4,Population
+Idaho,West,NHW,81.6,Population
+Illinois,Midwest,NHW,60.9,Population
+Indiana,Midwest,NHW,78.60000000000001,Population
+Iowa,Midwest,NHW,85.3,Population
+Kansas,Midwest,NHW,75.7,Population
+Kentucky,South,NHW,84.5,Population
+Louisiana,South,NHW,58.8,Population
+Maine,Northeast,NHW,93.2,Population
+Maryland,South,NHW,49.9,Population
+Massachusetts,Northeast,NHW,70.5,Population
+Michigan,Midwest,NHW,74.9,Population
+Minnesota,Midwest,NHW,79.10000000000001,Population
+Mississippi,South,NHW,56.599999999999994,Population
+Missouri,Midwest,NHW,79.4,Population
+Montana,West,NHW,86.1,Population
+Nebraska,Midwest,NHW,78.5,Population
+Nevada,West,NHW,47.8,Population
+New Hampshire,Northeast,NHW,89.8,Population
+New Jersey,Northeast,NHW,54.50000000000001,Population
+New Mexico,West,NHW,36.7,Population
+North Carolina,South,NHW,62.7,Population
+Ohio,Midwest,NHW,78.60000000000001,Population
+Oklahoma,South,NHW,65,Population
+Oregon,West,NHW,75,Population
+Pennsylvania,Northeast,NHW,76,Population
+Rhode Island,Northeast,NHW,70.5,Population
+South Carolina,South,NHW,63.7,Population
+South Dakota,Midwest,NHW,81.89999999999999,Population
+Tennessee,South,NHW,73.6,Population
+Texas,South,NHW,41.099999999999994,Population
+Utah,West,NHW,77.8,Population
+Vermont,Northeast,NHW,92.80000000000001,Population
+Virginia,South,NHW,61.3,Population
+Washington,West,NHW,67.5,Population
+West Virginia,South,NHW,92.5,Population
+Wisconsin,Midwest,NHW,81.10000000000001,Population
+Wyoming,West,NHW,83.8,Population
+Alabama,South,NHB,26.5,Population
+Alaska,West,NHB,2.2,Population
+Arizona,West,NHB,4.3,Population
+Arkansas,South,NHB,15.2,Population
+California,West,NHB,5.3,Population
+Colorado,West,NHB,3.8,Population
+Connecticut,Northeast,NHB,10,Population
+Delaware,South,NHB,21.8,Population
+District of Columbia,South,NHB,45,Population
+Florida,South,NHB,15,Population
+Georgia,South,NHB,31.3,Population
+Hawaii,West,NHB,1.2,Population
+Idaho,West,NHB,0.7,Population
+Illinois,Midwest,NHB,13.6,Population
+Indiana,Midwest,NHB,9.2,Population
+Iowa,Midwest,NHB,3.9,Population
+Kansas,Midwest,NHB,5.5,Population
+Kentucky,South,NHB,8,Population
+Louisiana,South,NHB,31.9,Population
+Maine,Northeast,NHB,1.4,Population
+Maryland,South,NHB,29.6,Population
+Massachusetts,Northeast,NHB,7,Population
+Michigan,Midwest,NHB,13.4,Population
+Minnesota,Midwest,NHB,6.4,Population
+Mississippi,South,NHB,37.6,Population
+Missouri,Midwest,NHB,11.2,Population
+Nebraska,Midwest,NHB,4.8,Population
+Nevada,West,NHB,9.2,Population
+New Hampshire,Northeast,NHB,1.3,Population
+New Jersey,Northeast,NHB,12.4,Population
+New Mexico,West,NHB,1.7,Population
+North Carolina,South,NHB,20.9,Population
+Ohio,Midwest,NHB,12.2,Population
+Oklahoma,South,NHB,6.9,Population
+Oregon,West,NHB,1.8,Population
+Pennsylvania,Northeast,NHB,10.4,Population
+Rhode Island,Northeast,NHB,5.9,Population
+South Carolina,South,NHB,26.2,Population
+South Dakota,Midwest,NHB,2.2,Population
+Tennessee,South,NHB,16.4,Population
+Texas,South,NHB,11.7,Population
+Utah,West,NHB,1,Population
+Virginia,South,NHB,18.9,Population
+Washington,West,NHB,3.8,Population
+West Virginia,South,NHB,3.2,Population
+Wisconsin,Midwest,NHB,6.2,Population
+Wyoming,West,NHB,1,Population
+Alabama,South,Hispanic,4.3999999999999995,Population
+Alaska,West,Hispanic,7.000000000000001,Population
+Arizona,West,Hispanic,31.8,Population
+Arkansas,South,Hispanic,7.8,Population
+California,West,Hispanic,39.5,Population
+Colorado,West,Hispanic,21.8,Population
+Connecticut,Northeast,Hispanic,16.900000000000002,Population
+Delaware,South,Hispanic,9.700000000000001,Population
+District of Columbia,South,Hispanic,11.200000000000001,Population
+Florida,South,Hispanic,26.6,Population
+Georgia,South,Hispanic,9.8,Population
+Hawaii,West,Hispanic,10.299999999999999,Population
+Idaho,West,Hispanic,12.9,Population
+Illinois,Midwest,Hispanic,17.599999999999998,Population
+Indiana,Midwest,Hispanic,7.199999999999999,Population
+Iowa,Midwest,Hispanic,6.3,Population
+Kansas,Midwest,Hispanic,12.2,Population
+Kentucky,South,Hispanic,3.6999999999999997,Population
+Louisiana,South,Hispanic,5.2,Population
+Maine,Northeast,Hispanic,1.7000000000000002,Population
+Maryland,South,Hispanic,10.6,Population
+Massachusetts,Northeast,Hispanic,12.4,Population
+Michigan,Midwest,Hispanic,5.3,Population
+Minnesota,Midwest,Hispanic,5.6000000000000005,Population
+Mississippi,South,Hispanic,3,Population
+Missouri,Midwest,Hispanic,4.3,Population
+Montana,West,Hispanic,3.6999999999999997,Population
+Nebraska,Midwest,Hispanic,11.3,Population
+Nevada,West,Hispanic,29.299999999999997,Population
+New Hampshire,Northeast,Hispanic,3.9,Population
+New Jersey,Northeast,Hispanic,21,Population
+New Mexico,West,Hispanic,49.5,Population
+New York,Northeast,Hispanic,19.3,Population
+North Carolina,South,Hispanic,9.700000000000001,Population
+North Dakota,Midwest,Hispanic,4,Population
+Ohio,Midwest,Hispanic,4,Population
+Oklahoma,South,Hispanic,11.1,Population
+Oregon,West,Hispanic,13.4,Population
+Pennsylvania,Northeast,Hispanic,7.8,Population
+Rhode Island,Northeast,Hispanic,16.6,Population
+South Carolina,South,Hispanic,5.7,Population
+South Dakota,Midwest,Hispanic,3.6999999999999997,Population
+Tennessee,South,Hispanic,5.7,Population
+Texas,South,Hispanic,40,Population
+Utah,West,Hispanic,14.399999999999999,Population
+Vermont,Northeast,Hispanic,1.7999999999999998,Population
+Virginia,South,Hispanic,9.6,Population
+Washington,West,Hispanic,13,Population
+West Virginia,South,Hispanic,1.4000000000000001,Population
+Wisconsin,Midwest,Hispanic,7.1,Population
+Wyoming,West,Hispanic,10.100000000000001,Population
+Alabama,South,NHA,1.4000000000000001,Population
+Alaska,West,NHA,6,Population
+Arizona,West,NHA,3.3000000000000003,Population
+Arkansas,South,NHA,1.6,Population
+California,West,NHA,14.7,Population
+Colorado,West,NHA,3.2,Population
+Connecticut,Northeast,NHA,4.6,Population
+Delaware,South,NHA,3.9,Population
+District of Columbia,South,NHA,3.6999999999999997,Population
+Georgia,South,NHA,4.1000000000000005,Population
+Hawaii,West,NHA,39.4,Population
+Idaho,West,NHA,1.2,Population
+Illinois,Midwest,NHA,5.6000000000000005,Population
+Indiana,Midwest,NHA,2.4,Population
+Iowa,Midwest,NHA,2.3,Population
+Kansas,Midwest,NHA,2.8000000000000003,Population
+Kentucky,South,NHA,1.6,Population
+Louisiana,South,NHA,1.7000000000000002,Population
+Maine,Northeast,NHA,1.0999999999999999,Population
+Maryland,South,NHA,6.4,Population
+Massachusetts,Northeast,NHA,6.7,Population
+Michigan,Midwest,NHA,3.2,Population
+Minnesota,Midwest,NHA,4.9,Population
+Mississippi,South,NHA,1,Population
+Missouri,Midwest,NHA,2.1,Population
+Nebraska,Midwest,NHA,2.4,Population
+Nevada,West,NHA,8.5,Population
+New Hampshire,Northeast,NHA,2.6,Population
+New Jersey,Northeast,NHA,9.6,Population
+New Mexico,West,NHA,1.6,Population
+North Carolina,South,NHA,2.9000000000000004,Population
+Ohio,Midwest,NHA,2.3,Population
+Oklahoma,South,NHA,2.1,Population
+Oregon,West,NHA,4.7,Population
+Pennsylvania,Northeast,NHA,3.5000000000000004,Population
+Rhode Island,Northeast,NHA,3.3000000000000003,Population
+South Carolina,South,NHA,1.7000000000000002,Population
+South Dakota,Midwest,NHA,1.3,Population
+Tennessee,South,NHA,1.7999999999999998,Population
+Texas,South,NHA,5,Population
+Utah,West,NHA,2.3,Population
+Vermont,Northeast,NHA,1.6,Population
+Virginia,South,NHA,6.7,Population
+Washington,West,NHA,8.9,Population
+Wisconsin,Midwest,NHA,3,Population
+Wyoming,West,NHA,0.6,Population
+Alabama,All Regions,NHW,65.4,Population
+Alaska,All Regions,NHW,60,Population
+Arizona,All Regions,NHW,54.2,Population
+Arkansas,All Regions,NHW,72.1,Population
+California,All Regions,NHW,36.4,Population
+Colorado,All Regions,NHW,67.80000000000001,Population
+Connecticut,All Regions,NHW,65.7,Population
+Delaware,All Regions,NHW,61.4,Population
+District of Columbia,All Regions,NHW,36.7,Population
+Florida,All Regions,NHW,53,Population
+Georgia,All Regions,NHW,52,Population
+Hawaii,All Regions,NHW,20.4,Population
+Idaho,All Regions,NHW,81.6,Population
+Illinois,All Regions,NHW,60.9,Population
+Indiana,All Regions,NHW,78.60000000000001,Population
+Iowa,All Regions,NHW,85.3,Population
+Kansas,All Regions,NHW,75.7,Population
+Kentucky,All Regions,NHW,84.5,Population
+Louisiana,All Regions,NHW,58.8,Population
+Maine,All Regions,NHW,93.2,Population
+Maryland,All Regions,NHW,49.9,Population
+Massachusetts,All Regions,NHW,70.5,Population
+Michigan,All Regions,NHW,74.9,Population
+Minnesota,All Regions,NHW,79.10000000000001,Population
+Mississippi,All Regions,NHW,56.599999999999994,Population
+Missouri,All Regions,NHW,79.4,Population
+Montana,All Regions,NHW,86.1,Population
+Nebraska,All Regions,NHW,78.5,Population
+Nevada,All Regions,NHW,47.8,Population
+New Hampshire,All Regions,NHW,89.8,Population
+New Jersey,All Regions,NHW,54.50000000000001,Population
+New Mexico,All Regions,NHW,36.7,Population
+North Carolina,All Regions,NHW,62.7,Population
+Ohio,All Regions,NHW,78.60000000000001,Population
+Oklahoma,All Regions,NHW,65,Population
+Oregon,All Regions,NHW,75,Population
+Pennsylvania,All Regions,NHW,76,Population
+Rhode Island,All Regions,NHW,70.5,Population
+South Carolina,All Regions,NHW,63.7,Population
+South Dakota,All Regions,NHW,81.89999999999999,Population
+Tennessee,All Regions,NHW,73.6,Population
+Texas,All Regions,NHW,41.099999999999994,Population
+Utah,All Regions,NHW,77.8,Population
+Vermont,All Regions,NHW,92.80000000000001,Population
+Virginia,All Regions,NHW,61.3,Population
+Washington,All Regions,NHW,67.5,Population
+West Virginia,All Regions,NHW,92.5,Population
+Wisconsin,All Regions,NHW,81.10000000000001,Population
+Wyoming,All Regions,NHW,83.8,Population
+Alabama,All Regions,NHB,26.5,Population
+Alaska,All Regions,NHB,2.2,Population
+Arizona,All Regions,NHB,4.3,Population
+Arkansas,All Regions,NHB,15.2,Population
+California,All Regions,NHB,5.3,Population
+Colorado,All Regions,NHB,3.8,Population
+Connecticut,All Regions,NHB,10,Population
+Delaware,All Regions,NHB,21.8,Population
+District of Columbia,All Regions,NHB,45,Population
+Florida,All Regions,NHB,15,Population
+Georgia,All Regions,NHB,31.3,Population
+Hawaii,All Regions,NHB,1.2,Population
+Idaho,All Regions,NHB,0.7,Population
+Illinois,All Regions,NHB,13.6,Population
+Indiana,All Regions,NHB,9.2,Population
+Iowa,All Regions,NHB,3.9,Population
+Kansas,All Regions,NHB,5.5,Population
+Kentucky,All Regions,NHB,8,Population
+Louisiana,All Regions,NHB,31.9,Population
+Maine,All Regions,NHB,1.4,Population
+Maryland,All Regions,NHB,29.6,Population
+Massachusetts,All Regions,NHB,7,Population
+Michigan,All Regions,NHB,13.4,Population
+Minnesota,All Regions,NHB,6.4,Population
+Mississippi,All Regions,NHB,37.6,Population
+Missouri,All Regions,NHB,11.2,Population
+Nebraska,All Regions,NHB,4.8,Population
+Nevada,All Regions,NHB,9.2,Population
+New Hampshire,All Regions,NHB,1.3,Population
+New Jersey,All Regions,NHB,12.4,Population
+New Mexico,All Regions,NHB,1.7,Population
+North Carolina,All Regions,NHB,20.9,Population
+Ohio,All Regions,NHB,12.2,Population
+Oklahoma,All Regions,NHB,6.9,Population
+Oregon,All Regions,NHB,1.8,Population
+Pennsylvania,All Regions,NHB,10.4,Population
+Rhode Island,All Regions,NHB,5.9,Population
+South Carolina,All Regions,NHB,26.2,Population
+South Dakota,All Regions,NHB,2.2,Population
+Tennessee,All Regions,NHB,16.4,Population
+Texas,All Regions,NHB,11.7,Population
+Utah,All Regions,NHB,1,Population
+Virginia,All Regions,NHB,18.9,Population
+Washington,All Regions,NHB,3.8,Population
+West Virginia,All Regions,NHB,3.2,Population
+Wisconsin,All Regions,NHB,6.2,Population
+Wyoming,All Regions,NHB,1,Population
+Alabama,All Regions,Hispanic,4.3999999999999995,Population
+Alaska,All Regions,Hispanic,7.000000000000001,Population
+Arizona,All Regions,Hispanic,31.8,Population
+Arkansas,All Regions,Hispanic,7.8,Population
+California,All Regions,Hispanic,39.5,Population
+Colorado,All Regions,Hispanic,21.8,Population
+Connecticut,All Regions,Hispanic,16.900000000000002,Population
+Delaware,All Regions,Hispanic,9.700000000000001,Population
+District of Columbia,All Regions,Hispanic,11.200000000000001,Population
+Florida,All Regions,Hispanic,26.6,Population
+Georgia,All Regions,Hispanic,9.8,Population
+Hawaii,All Regions,Hispanic,10.299999999999999,Population
+Idaho,All Regions,Hispanic,12.9,Population
+Illinois,All Regions,Hispanic,17.599999999999998,Population
+Indiana,All Regions,Hispanic,7.199999999999999,Population
+Iowa,All Regions,Hispanic,6.3,Population
+Kansas,All Regions,Hispanic,12.2,Population
+Kentucky,All Regions,Hispanic,3.6999999999999997,Population
+Louisiana,All Regions,Hispanic,5.2,Population
+Maine,All Regions,Hispanic,1.7000000000000002,Population
+Maryland,All Regions,Hispanic,10.6,Population
+Massachusetts,All Regions,Hispanic,12.4,Population
+Michigan,All Regions,Hispanic,5.3,Population
+Minnesota,All Regions,Hispanic,5.6000000000000005,Population
+Mississippi,All Regions,Hispanic,3,Population
+Missouri,All Regions,Hispanic,4.3,Population
+Montana,All Regions,Hispanic,3.6999999999999997,Population
+Nebraska,All Regions,Hispanic,11.3,Population
+Nevada,All Regions,Hispanic,29.299999999999997,Population
+New Hampshire,All Regions,Hispanic,3.9,Population
+New Jersey,All Regions,Hispanic,21,Population
+New Mexico,All Regions,Hispanic,49.5,Population
+New York,All Regions,Hispanic,19.3,Population
+North Carolina,All Regions,Hispanic,9.700000000000001,Population
+North Dakota,All Regions,Hispanic,4,Population
+Ohio,All Regions,Hispanic,4,Population
+Oklahoma,All Regions,Hispanic,11.1,Population
+Oregon,All Regions,Hispanic,13.4,Population
+Pennsylvania,All Regions,Hispanic,7.8,Population
+Rhode Island,All Regions,Hispanic,16.6,Population
+South Carolina,All Regions,Hispanic,5.7,Population
+South Dakota,All Regions,Hispanic,3.6999999999999997,Population
+Tennessee,All Regions,Hispanic,5.7,Population
+Texas,All Regions,Hispanic,40,Population
+Utah,All Regions,Hispanic,14.399999999999999,Population
+Vermont,All Regions,Hispanic,1.7999999999999998,Population
+Virginia,All Regions,Hispanic,9.6,Population
+Washington,All Regions,Hispanic,13,Population
+West Virginia,All Regions,Hispanic,1.4000000000000001,Population
+Wisconsin,All Regions,Hispanic,7.1,Population
+Wyoming,All Regions,Hispanic,10.100000000000001,Population
+Alabama,All Regions,NHA,1.4000000000000001,Population
+Alaska,All Regions,NHA,6,Population
+Arizona,All Regions,NHA,3.3000000000000003,Population
+Arkansas,All Regions,NHA,1.6,Population
+California,All Regions,NHA,14.7,Population
+Colorado,All Regions,NHA,3.2,Population
+Connecticut,All Regions,NHA,4.6,Population
+Delaware,All Regions,NHA,3.9,Population
+District of Columbia,All Regions,NHA,3.6999999999999997,Population
+Georgia,All Regions,NHA,4.1000000000000005,Population
+Hawaii,All Regions,NHA,39.4,Population
+Idaho,All Regions,NHA,1.2,Population
+Illinois,All Regions,NHA,5.6000000000000005,Population
+Indiana,All Regions,NHA,2.4,Population
+Iowa,All Regions,NHA,2.3,Population
+Kansas,All Regions,NHA,2.8000000000000003,Population
+Kentucky,All Regions,NHA,1.6,Population
+Louisiana,All Regions,NHA,1.7000000000000002,Population
+Maine,All Regions,NHA,1.0999999999999999,Population
+Maryland,All Regions,NHA,6.4,Population
+Massachusetts,All Regions,NHA,6.7,Population
+Michigan,All Regions,NHA,3.2,Population
+Minnesota,All Regions,NHA,4.9,Population
+Mississippi,All Regions,NHA,1,Population
+Missouri,All Regions,NHA,2.1,Population
+Nebraska,All Regions,NHA,2.4,Population
+Nevada,All Regions,NHA,8.5,Population
+New Hampshire,All Regions,NHA,2.6,Population
+New Jersey,All Regions,NHA,9.6,Population
+New Mexico,All Regions,NHA,1.6,Population
+North Carolina,All Regions,NHA,2.9000000000000004,Population
+Ohio,All Regions,NHA,2.3,Population
+Oklahoma,All Regions,NHA,2.1,Population
+Oregon,All Regions,NHA,4.7,Population
+Pennsylvania,All Regions,NHA,3.5000000000000004,Population
+Rhode Island,All Regions,NHA,3.3000000000000003,Population
+South Carolina,All Regions,NHA,1.7000000000000002,Population
+South Dakota,All Regions,NHA,1.3,Population
+Tennessee,All Regions,NHA,1.7999999999999998,Population
+Texas,All Regions,NHA,5,Population
+Utah,All Regions,NHA,2.3,Population
+Vermont,All Regions,NHA,1.6,Population
+Virginia,All Regions,NHA,6.7,Population
+Washington,All Regions,NHA,8.9,Population
+Wisconsin,All Regions,NHA,3,Population
+Wyoming,All Regions,NHA,0.6,Population

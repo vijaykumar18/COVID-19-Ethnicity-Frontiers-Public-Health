@@ -1,0 +1,375 @@
+State,Region,Race,Population,Group
+Alabama,South,NHW,56.17150281507146,Mortality
+Alaska,West,NHW,41.81818181818181,Mortality
+Arizona,West,NHW,47.15025906735752,Mortality
+Arkansas,South,NHW,67.07416462917686,Mortality
+California,West,NHW,30.020623872131992,Mortality
+Colorado,West,NHW,63.66943866943867,Mortality
+Connecticut,Northeast,NHW,73.80206000895656,Mortality
+Delaware,South,NHW,64.62264150943396,Mortality
+District of Columbia,South,NHW,10.789049919484702,Mortality
+Florida,South,NHW,49.93806019092035,Mortality
+Georgia,South,NHW,50.050497763670464,Mortality
+Hawaii,West,NHW,10.077519379844961,Mortality
+Idaho,West,NHW,95.6896551724138,Mortality
+Illinois,Midwest,NHW,48.42400186784964,Mortality
+Indiana,Midwest,NHW,70.98609355246523,Mortality
+Iowa,Midwest,NHW,91.11483654652137,Mortality
+Kansas,Midwest,NHW,75.98116169544741,Mortality
+Kentucky,South,NHW,83.5820895522388,Mortality
+Louisiana,South,NHW,52.61671686746988,Mortality
+Maine,Northeast,NHW,96.8,Mortality
+Maryland,South,NHW,42.71203656678517,Mortality
+Massachusetts,Northeast,NHW,76.00808596659219,Mortality
+Michigan,Midwest,NHW,55.84566289527125,Mortality
+Minnesota,Midwest,NHW,77.98617966436328,Mortality
+Mississippi,South,NHW,47.107438016528924,Mortality
+Missouri,Midwest,NHW,66.36500754147812,Mortality
+Montana,West,NHW,62.99212598425197,Mortality
+Nebraska,Midwest,NHW,83.33333333333334,Mortality
+Nevada,West,NHW,50.603528319405754,Mortality
+New Hampshire,Northeast,NHW,93.92523364485982,Mortality
+New Jersey,Northeast,NHW,54.39129334345735,Mortality
+New Mexico,West,NHW,24.054982817869416,Mortality
+North Carolina,South,NHW,60.315101070154576,Mortality
+Ohio,Midwest,NHW,78.51099830795262,Mortality
+Oklahoma,South,NHW,76.66666666666667,Mortality
+Oregon,West,NHW,75,Mortality
+Pennsylvania,Northeast,NHW,72.55290186858062,Mortality
+Rhode Island,Northeast,NHW,80.52805280528052,Mortality
+South Carolina,South,NHW,56.3472846765825,Mortality
+South Dakota,Midwest,NHW,66.81614349775785,Mortality
+Tennessee,South,NHW,67.22585924713584,Mortality
+Texas,South,NHW,30.146532074242916,Mortality
+Utah,West,NHW,55.06912442396313,Mortality
+Vermont,Northeast,NHW,94.82758620689656,Mortality
+Virginia,South,NHW,56.31663974151858,Mortality
+Washington,West,NHW,67.75275515093435,Mortality
+West Virginia,South,NHW,82.94797687861272,Mortality
+Wisconsin,Midwest,NHW,76.04562737642586,Mortality
+Wyoming,West,NHW,56.09756097560976,Mortality
+Alabama,South,NHB,41.0134257254223,Mortality
+Alaska,West,NHB,3.63636363636364,Mortality
+Arizona,West,NHB,3.56715823037067,Mortality
+Arkansas,South,NHB,21.841890790546,Mortality
+California,West,NHB,7.64372260891982,Mortality
+Colorado,West,NHB,6.39293139293139,Mortality
+Connecticut,Northeast,NHB,14.8231079265562,Mortality
+Delaware,South,NHB,25.6289308176101,Mortality
+District of Columbia,South,NHB,75.2012882447665,Mortality
+Florida,South,NHB,19.0847482328937,Mortality
+Georgia,South,NHB,41.3793103448276,Mortality
+Hawaii,West,NHB,3.87596899224806,Mortality
+Idaho,West,NHB,0.862068965517241,Mortality
+Illinois,Midwest,NHB,25.9864580901237,Mortality
+Indiana,Midwest,NHB,14.1908975979772,Mortality
+Iowa,Midwest,NHB,4.27493713327745,Mortality
+Kansas,Midwest,NHB,13.6577708006279,Mortality
+Kentucky,South,NHB,12.8731343283582,Mortality
+Louisiana,South,NHB,45.8960843373494,Mortality
+Maine,Northeast,NHB,3.2,Mortality
+Maryland,South,NHB,40.9344845099035,Mortality
+Massachusetts,Northeast,NHB,8.14980317055006,Mortality
+Michigan,Midwest,NHB,39.0049318247752,Mortality
+Minnesota,Midwest,NHB,9.6248766041461,Mortality
+Mississippi,South,NHB,47.1418732782369,Mortality
+Missouri,Midwest,NHB,28.9592760180996,Mortality
+Nebraska,Midwest,NHB,7.43243243243243,Mortality
+Nevada,West,NHB,12.2562674094708,Mortality
+New Hampshire,Northeast,NHB,2.10280373831776,Mortality
+New Jersey,Northeast,NHB,18.0397367754999,Mortality
+New Mexico,West,NHB,1.1454753722795,Mortality
+North Carolina,South,NHB,30.1426872770511,Mortality
+Ohio,Midwest,NHB,18.2106598984772,Mortality
+Oklahoma,South,NHB,6.875,Mortality
+Oregon,West,NHB,2.64227642276423,Mortality
+Pennsylvania,Northeast,NHB,20.6410097760178,Mortality
+Rhode Island,Northeast,NHB,6.16061606160616,Mortality
+South Carolina,South,NHB,40.7817364233829,Mortality
+South Dakota,Midwest,NHB,0.896860986547085,Mortality
+Tennessee,South,NHB,27.291325695581,Mortality
+Texas,South,NHB,11.3187886681863,Mortality
+Utah,West,NHB,1.61290322580645,Mortality
+Virginia,South,NHB,26.9789983844911,Mortality
+Washington,West,NHB,3.30618112122664,Mortality
+West Virginia,South,NHB,2.60115606936416,Mortality
+Wisconsin,Midwest,NHB,18.0228136882129,Mortality
+Wyoming,West,NHB,2.4390243902439,Mortality
+Alabama,South,Hispanic,2.9449978345604158,Mortality
+Alaska,West,Hispanic,1.8181818181818181,Mortality
+Arizona,West,Hispanic,34.196891191709845,Mortality
+Arkansas,South,Hispanic,7.090464547677261,Mortality
+California,West,Hispanic,48.298530549110595,Mortality
+Colorado,West,Hispanic,23.64864864864865,Mortality
+Connecticut,Northeast,Hispanic,8.978952082400358,Mortality
+Delaware,South,Hispanic,7.70440251572327,Mortality
+District of Columbia,South,Hispanic,12.721417069243158,Mortality
+Florida,South,Hispanic,26.663266049697587,Mortality
+Georgia,South,Hispanic,6.204010965228682,Mortality
+Idaho,West,Hispanic,12.284482758620689,Mortality
+Illinois,Midwest,Hispanic,20.324538874620593,Mortality
+Indiana,Midwest,Hispanic,2.4968394437420987,Mortality
+Iowa,Midwest,Hispanic,6.202849958088851,Mortality
+Kansas,Midwest,Hispanic,14.599686028257459,Mortality
+Kentucky,South,Hispanic,3.451492537313433,Mortality
+Maine,Northeast,Hispanic,0,Mortality
+Maryland,South,Hispanic,11.503301168105637,Mortality
+Massachusetts,Northeast,Hispanic,6.93690818172146,Mortality
+Michigan,Midwest,Hispanic,2.9300841311285177,Mortality
+Minnesota,Midwest,Hispanic,4.787759131293188,Mortality
+Mississippi,South,Hispanic,1.3085399449035813,Mortality
+Missouri,Midwest,Hispanic,3.469079939668175,Mortality
+Nebraska,Midwest,Hispanic,20.495495495495494,Mortality
+Nevada,West,Hispanic,23.491179201485608,Mortality
+New Hampshire,Northeast,Hispanic,2.803738317757009,Mortality
+New Jersey,Northeast,Hispanic,20.14679827891673,Mortality
+New Mexico,West,Hispanic,24.284077892325314,Mortality
+North Carolina,South,Hispanic,8.769322235434007,Mortality
+Ohio,Midwest,Hispanic,2.220812182741117,Mortality
+Oklahoma,South,Hispanic,6.666666666666667,Mortality
+Oregon,West,Hispanic,15.853658536585366,Mortality
+Pennsylvania,Northeast,Hispanic,5.840861279544611,Mortality
+Rhode Island,Northeast,Hispanic,11.66116611661166,Mortality
+South Carolina,South,Hispanic,3.597371151850571,Mortality
+South Dakota,Midwest,Hispanic,2.690582959641256,Mortality
+Tennessee,South,Hispanic,6.096563011456628,Mortality
+Texas,South,Hispanic,56.12504070335396,Mortality
+Utah,West,Hispanic,23.502304147465438,Mortality
+Vermont,Northeast,Hispanic,0,Mortality
+Virginia,South,Hispanic,9.98384491114701,Mortality
+Washington,West,Hispanic,14.13512218495448,Mortality
+Wisconsin,Midwest,Hispanic,11.634980988593156,Mortality
+Wyoming,West,Hispanic,4.878048780487805,Mortality
+Alabama,South,NHA,0.34647033347769596,Mortality
+Alaska,West,NHA,7.2727272727272725,Mortality
+Arizona,West,NHA,1.315265045834994,Mortality
+Arkansas,South,NHA,1.3039934800325998,Mortality
+California,West,NHA,11.781386955400878,Mortality
+Colorado,West,NHA,3.2224532224532227,Mortality
+Connecticut,Northeast,NHA,1.09717868338558,Mortality
+Delaware,South,NHA,0.15723270440251574,Mortality
+District of Columbia,South,NHA,1.288244766505636,Mortality
+Georgia,South,NHA,1.8756312220458808,Mortality
+Hawaii,West,NHA,55.03875968992248,Mortality
+Idaho,West,NHA,0.646551724137931,Mortality
+Illinois,Midwest,NHA,4.4594910109736166,Mortality
+Indiana,Midwest,NHA,0.5689001264222503,Mortality
+Iowa,Midwest,NHA,2.2632020117351215,Mortality
+Kansas,Midwest,NHA,2.3547880690737837,Mortality
+Kentucky,South,NHA,1.1194029850746268,Mortality
+Louisiana,South,NHA,0.677710843373494,Mortality
+Maine,Northeast,NHA,0,Mortality
+Maryland,South,NHA,3.783646521076689,Mortality
+Massachusetts,Northeast,NHA,2.4896265560165975,Mortality
+Michigan,Midwest,NHA,1.3199883957064114,Mortality
+Minnesota,Midwest,NHA,4.639684106614018,Mortality
+Mississippi,South,NHA,0.24104683195592286,Mortality
+Missouri,Midwest,NHA,1.206636500754148,Mortality
+Nebraska,Midwest,NHA,4.054054054054054,Mortality
+Nevada,West,NHA,12.44196843082637,Mortality
+New Hampshire,Northeast,NHA,0.9345794392523363,Mortality
+New Jersey,Northeast,NHA,5.517590483421919,Mortality
+New Mexico,West,NHA,0.45819014891179843,Mortality
+North Carolina,South,NHA,1.33769322235434,Mortality
+Ohio,Midwest,NHA,1.0363790186125212,Mortality
+Oklahoma,South,NHA,2.5,Mortality
+Oregon,West,NHA,3.861788617886179,Mortality
+Pennsylvania,Northeast,NHA,2.066575918821928,Mortality
+Rhode Island,Northeast,NHA,1.4301430143014302,Mortality
+South Carolina,South,NHA,0.7955724662746454,Mortality
+South Dakota,Midwest,NHA,2.242152466367713,Mortality
+Tennessee,South,NHA,0.9410801963993453,Mortality
+Texas,South,NHA,1.8756105503093454,Mortality
+Utah,West,NHA,5.529953917050691,Mortality
+Vermont,Northeast,NHA,3.4482758620689653,Mortality
+Virginia,South,NHA,4.7819063004846525,Mortality
+Washington,West,NHA,7.522759942501198,Mortality
+Wisconsin,Midwest,NHA,2.737642585551331,Mortality
+Wyoming,West,NHA,0,Mortality
+Alabama,All Regions,NHW,56.17150281507146,Mortality
+Alaska,All Regions,NHW,41.81818181818181,Mortality
+Arizona,All Regions,NHW,47.15025906735752,Mortality
+Arkansas,All Regions,NHW,67.07416462917686,Mortality
+California,All Regions,NHW,30.020623872131992,Mortality
+Colorado,All Regions,NHW,63.66943866943867,Mortality
+Connecticut,All Regions,NHW,73.80206000895656,Mortality
+Delaware,All Regions,NHW,64.62264150943396,Mortality
+District of Columbia,All Regions,NHW,10.789049919484702,Mortality
+Florida,All Regions,NHW,49.93806019092035,Mortality
+Georgia,All Regions,NHW,50.050497763670464,Mortality
+Hawaii,All Regions,NHW,10.077519379844961,Mortality
+Idaho,All Regions,NHW,95.6896551724138,Mortality
+Illinois,All Regions,NHW,48.42400186784964,Mortality
+Indiana,All Regions,NHW,70.98609355246523,Mortality
+Iowa,All Regions,NHW,91.11483654652137,Mortality
+Kansas,All Regions,NHW,75.98116169544741,Mortality
+Kentucky,All Regions,NHW,83.5820895522388,Mortality
+Louisiana,All Regions,NHW,52.61671686746988,Mortality
+Maine,All Regions,NHW,96.8,Mortality
+Maryland,All Regions,NHW,42.71203656678517,Mortality
+Massachusetts,All Regions,NHW,76.00808596659219,Mortality
+Michigan,All Regions,NHW,55.84566289527125,Mortality
+Minnesota,All Regions,NHW,77.98617966436328,Mortality
+Mississippi,All Regions,NHW,47.107438016528924,Mortality
+Missouri,All Regions,NHW,66.36500754147812,Mortality
+Montana,All Regions,NHW,62.99212598425197,Mortality
+Nebraska,All Regions,NHW,83.33333333333334,Mortality
+Nevada,All Regions,NHW,50.603528319405754,Mortality
+New Hampshire,All Regions,NHW,93.92523364485982,Mortality
+New Jersey,All Regions,NHW,54.39129334345735,Mortality
+New Mexico,All Regions,NHW,24.054982817869416,Mortality
+North Carolina,All Regions,NHW,60.315101070154576,Mortality
+Ohio,All Regions,NHW,78.51099830795262,Mortality
+Oklahoma,All Regions,NHW,76.66666666666667,Mortality
+Oregon,All Regions,NHW,75,Mortality
+Pennsylvania,All Regions,NHW,72.55290186858062,Mortality
+Rhode Island,All Regions,NHW,80.52805280528052,Mortality
+South Carolina,All Regions,NHW,56.3472846765825,Mortality
+South Dakota,All Regions,NHW,66.81614349775785,Mortality
+Tennessee,All Regions,NHW,67.22585924713584,Mortality
+Texas,All Regions,NHW,30.146532074242916,Mortality
+Utah,All Regions,NHW,55.06912442396313,Mortality
+Vermont,All Regions,NHW,94.82758620689656,Mortality
+Virginia,All Regions,NHW,56.31663974151858,Mortality
+Washington,All Regions,NHW,67.75275515093435,Mortality
+West Virginia,All Regions,NHW,82.94797687861272,Mortality
+Wisconsin,All Regions,NHW,76.04562737642586,Mortality
+Wyoming,All Regions,NHW,56.09756097560976,Mortality
+Alabama,All Regions,NHB,41.0134257254223,Mortality
+Alaska,All Regions,NHB,3.63636363636364,Mortality
+Arizona,All Regions,NHB,3.56715823037067,Mortality
+Arkansas,All Regions,NHB,21.841890790546,Mortality
+California,All Regions,NHB,7.64372260891982,Mortality
+Colorado,All Regions,NHB,6.39293139293139,Mortality
+Connecticut,All Regions,NHB,14.8231079265562,Mortality
+Delaware,All Regions,NHB,25.6289308176101,Mortality
+District of Columbia,All Regions,NHB,75.2012882447665,Mortality
+Florida,All Regions,NHB,19.0847482328937,Mortality
+Georgia,All Regions,NHB,41.3793103448276,Mortality
+Hawaii,All Regions,NHB,3.87596899224806,Mortality
+Idaho,All Regions,NHB,0.862068965517241,Mortality
+Illinois,All Regions,NHB,25.9864580901237,Mortality
+Indiana,All Regions,NHB,14.1908975979772,Mortality
+Iowa,All Regions,NHB,4.27493713327745,Mortality
+Kansas,All Regions,NHB,13.6577708006279,Mortality
+Kentucky,All Regions,NHB,12.8731343283582,Mortality
+Louisiana,All Regions,NHB,45.8960843373494,Mortality
+Maine,All Regions,NHB,3.2,Mortality
+Maryland,All Regions,NHB,40.9344845099035,Mortality
+Massachusetts,All Regions,NHB,8.14980317055006,Mortality
+Michigan,All Regions,NHB,39.0049318247752,Mortality
+Minnesota,All Regions,NHB,9.6248766041461,Mortality
+Mississippi,All Regions,NHB,47.1418732782369,Mortality
+Missouri,All Regions,NHB,28.9592760180996,Mortality
+Nebraska,All Regions,NHB,7.43243243243243,Mortality
+Nevada,All Regions,NHB,12.2562674094708,Mortality
+New Hampshire,All Regions,NHB,2.10280373831776,Mortality
+New Jersey,All Regions,NHB,18.0397367754999,Mortality
+New Mexico,All Regions,NHB,1.1454753722795,Mortality
+North Carolina,All Regions,NHB,30.1426872770511,Mortality
+Ohio,All Regions,NHB,18.2106598984772,Mortality
+Oklahoma,All Regions,NHB,6.875,Mortality
+Oregon,All Regions,NHB,2.64227642276423,Mortality
+Pennsylvania,All Regions,NHB,20.6410097760178,Mortality
+Rhode Island,All Regions,NHB,6.16061606160616,Mortality
+South Carolina,All Regions,NHB,40.7817364233829,Mortality
+South Dakota,All Regions,NHB,0.896860986547085,Mortality
+Tennessee,All Regions,NHB,27.291325695581,Mortality
+Texas,All Regions,NHB,11.3187886681863,Mortality
+Utah,All Regions,NHB,1.61290322580645,Mortality
+Virginia,All Regions,NHB,26.9789983844911,Mortality
+Washington,All Regions,NHB,3.30618112122664,Mortality
+West Virginia,All Regions,NHB,2.60115606936416,Mortality
+Wisconsin,All Regions,NHB,18.0228136882129,Mortality
+Wyoming,All Regions,NHB,2.4390243902439,Mortality
+Alabama,All Regions,Hispanic,2.9449978345604158,Mortality
+Alaska,All Regions,Hispanic,1.8181818181818181,Mortality
+Arizona,All Regions,Hispanic,34.196891191709845,Mortality
+Arkansas,All Regions,Hispanic,7.090464547677261,Mortality
+California,All Regions,Hispanic,48.298530549110595,Mortality
+Colorado,All Regions,Hispanic,23.64864864864865,Mortality
+Connecticut,All Regions,Hispanic,8.978952082400358,Mortality
+Delaware,All Regions,Hispanic,7.70440251572327,Mortality
+District of Columbia,All Regions,Hispanic,12.721417069243158,Mortality
+Florida,All Regions,Hispanic,26.663266049697587,Mortality
+Georgia,All Regions,Hispanic,6.204010965228682,Mortality
+Idaho,All Regions,Hispanic,12.284482758620689,Mortality
+Illinois,All Regions,Hispanic,20.324538874620593,Mortality
+Indiana,All Regions,Hispanic,2.4968394437420987,Mortality
+Iowa,All Regions,Hispanic,6.202849958088851,Mortality
+Kansas,All Regions,Hispanic,14.599686028257459,Mortality
+Kentucky,All Regions,Hispanic,3.451492537313433,Mortality
+Maine,All Regions,Hispanic,0,Mortality
+Maryland,All Regions,Hispanic,11.503301168105637,Mortality
+Massachusetts,All Regions,Hispanic,6.93690818172146,Mortality
+Michigan,All Regions,Hispanic,2.9300841311285177,Mortality
+Minnesota,All Regions,Hispanic,4.787759131293188,Mortality
+Mississippi,All Regions,Hispanic,1.3085399449035813,Mortality
+Missouri,All Regions,Hispanic,3.469079939668175,Mortality
+Nebraska,All Regions,Hispanic,20.495495495495494,Mortality
+Nevada,All Regions,Hispanic,23.491179201485608,Mortality
+New Hampshire,All Regions,Hispanic,2.803738317757009,Mortality
+New Jersey,All Regions,Hispanic,20.14679827891673,Mortality
+New Mexico,All Regions,Hispanic,24.284077892325314,Mortality
+North Carolina,All Regions,Hispanic,8.769322235434007,Mortality
+Ohio,All Regions,Hispanic,2.220812182741117,Mortality
+Oklahoma,All Regions,Hispanic,6.666666666666667,Mortality
+Oregon,All Regions,Hispanic,15.853658536585366,Mortality
+Pennsylvania,All Regions,Hispanic,5.840861279544611,Mortality
+Rhode Island,All Regions,Hispanic,11.66116611661166,Mortality
+South Carolina,All Regions,Hispanic,3.597371151850571,Mortality
+South Dakota,All Regions,Hispanic,2.690582959641256,Mortality
+Tennessee,All Regions,Hispanic,6.096563011456628,Mortality
+Texas,All Regions,Hispanic,56.12504070335396,Mortality
+Utah,All Regions,Hispanic,23.502304147465438,Mortality
+Vermont,All Regions,Hispanic,0,Mortality
+Virginia,All Regions,Hispanic,9.98384491114701,Mortality
+Washington,All Regions,Hispanic,14.13512218495448,Mortality
+Wisconsin,All Regions,Hispanic,11.634980988593156,Mortality
+Wyoming,All Regions,Hispanic,4.878048780487805,Mortality
+Alabama,All Regions,NHA,0.34647033347769596,Mortality
+Alaska,All Regions,NHA,7.2727272727272725,Mortality
+Arizona,All Regions,NHA,1.315265045834994,Mortality
+Arkansas,All Regions,NHA,1.3039934800325998,Mortality
+California,All Regions,NHA,11.781386955400878,Mortality
+Colorado,All Regions,NHA,3.2224532224532227,Mortality
+Connecticut,All Regions,NHA,1.09717868338558,Mortality
+Delaware,All Regions,NHA,0.15723270440251574,Mortality
+District of Columbia,All Regions,NHA,1.288244766505636,Mortality
+Georgia,All Regions,NHA,1.8756312220458808,Mortality
+Hawaii,All Regions,NHA,55.03875968992248,Mortality
+Idaho,All Regions,NHA,0.646551724137931,Mortality
+Illinois,All Regions,NHA,4.4594910109736166,Mortality
+Indiana,All Regions,NHA,0.5689001264222503,Mortality
+Iowa,All Regions,NHA,2.2632020117351215,Mortality
+Kansas,All Regions,NHA,2.3547880690737837,Mortality
+Kentucky,All Regions,NHA,1.1194029850746268,Mortality
+Louisiana,All Regions,NHA,0.677710843373494,Mortality
+Maine,All Regions,NHA,0,Mortality
+Maryland,All Regions,NHA,3.783646521076689,Mortality
+Massachusetts,All Regions,NHA,2.4896265560165975,Mortality
+Michigan,All Regions,NHA,1.3199883957064114,Mortality
+Minnesota,All Regions,NHA,4.639684106614018,Mortality
+Mississippi,All Regions,NHA,0.24104683195592286,Mortality
+Missouri,All Regions,NHA,1.206636500754148,Mortality
+Nebraska,All Regions,NHA,4.054054054054054,Mortality
+Nevada,All Regions,NHA,12.44196843082637,Mortality
+New Hampshire,All Regions,NHA,0.9345794392523363,Mortality
+New Jersey,All Regions,NHA,5.517590483421919,Mortality
+New Mexico,All Regions,NHA,0.45819014891179843,Mortality
+North Carolina,All Regions,NHA,1.33769322235434,Mortality
+Ohio,All Regions,NHA,1.0363790186125212,Mortality
+Oklahoma,All Regions,NHA,2.5,Mortality
+Oregon,All Regions,NHA,3.861788617886179,Mortality
+Pennsylvania,All Regions,NHA,2.066575918821928,Mortality
+Rhode Island,All Regions,NHA,1.4301430143014302,Mortality
+South Carolina,All Regions,NHA,0.7955724662746454,Mortality
+South Dakota,All Regions,NHA,2.242152466367713,Mortality
+Tennessee,All Regions,NHA,0.9410801963993453,Mortality
+Texas,All Regions,NHA,1.8756105503093454,Mortality
+Utah,All Regions,NHA,5.529953917050691,Mortality
+Vermont,All Regions,NHA,3.4482758620689653,Mortality
+Virginia,All Regions,NHA,4.7819063004846525,Mortality
+Washington,All Regions,NHA,7.522759942501198,Mortality
+Wisconsin,All Regions,NHA,2.737642585551331,Mortality
+Wyoming,All Regions,NHA,0,Mortality
