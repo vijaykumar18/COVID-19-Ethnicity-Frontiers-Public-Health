@@ -1,0 +1,377 @@
+"","State","Region","Race/Ethnicity","% of Population"
+"1","Connecticut","All Regions","White",73
+"2","Connecticut","All Regions","African-American",15
+"3","Connecticut","All Regions","Asian",1
+"4","Connecticut","All Regions","Hispanic",9
+"5","Maine","All Regions","White",90
+"6","Maine","All Regions","African-American",3
+"7","Maine","All Regions","Asian",0
+"8","Maine","All Regions","Hispanic",1
+"9","Massachusetts","All Regions","White",76
+"10","Massachusetts","All Regions","African-American",8
+"11","Massachusetts","All Regions","Asian",2
+"12","Massachusetts","All Regions","Hispanic",7
+"13","New Hampshire","All Regions","White",91
+"14","New Hampshire","All Regions","African-American",2
+"15","New Hampshire","All Regions","Asian",1
+"16","New Hampshire","All Regions","Hispanic",3
+"17","New Jersey","All Regions","White",53
+"18","New Jersey","All Regions","African-American",18
+"19","New Jersey","All Regions","Asian",5
+"20","New Jersey","All Regions","Hispanic",20
+"21","New York","All Regions","White",31
+"22","New York","All Regions","African-American",22
+"23","New York","All Regions","Asian",6
+"24","New York","All Regions","Hispanic",24
+"25","Pennsylvania","All Regions","White",73
+"26","Pennsylvania","All Regions","African-American",20
+"27","Pennsylvania","All Regions","Asian",2
+"28","Pennsylvania","All Regions","Hispanic",6
+"29","Rhode Island","All Regions","White",65
+"30","Rhode Island","All Regions","African-American",5
+"31","Rhode Island","All Regions","Asian",1
+"32","Rhode Island","All Regions","Hispanic",10
+"33","Vermont","All Regions","White",95
+"34","Vermont","All Regions","African-American",0
+"35","Vermont","All Regions","Asian",3
+"36","Vermont","All Regions","Hispanic",0
+"37","Alabama","All Regions","White",52
+"38","Alabama","All Regions","African-American",37
+"39","Alabama","All Regions","Asian",0
+"40","Alabama","All Regions","Hispanic",3
+"41","Arkansas","All Regions","White",62
+"42","Arkansas","All Regions","African-American",20
+"43","Arkansas","All Regions","Asian",1
+"44","Arkansas","All Regions","Hispanic",6
+"45","Delaware","All Regions","White",65
+"46","Delaware","All Regions","African-American",26
+"47","Delaware","All Regions","Asian",0
+"48","Delaware","All Regions","Hispanic",8
+"49","Florida","All Regions","White",48
+"50","Florida","All Regions","African-American",18
+"51","Florida","All Regions","Asian",0
+"52","Florida","All Regions","Hispanic",25
+"53","Georgia","All Regions","White",50
+"54","Georgia","All Regions","African-American",41
+"55","Georgia","All Regions","Asian",2
+"56","Georgia","All Regions","Hispanic",6
+"57","Kentucky","All Regions","White",77
+"58","Kentucky","All Regions","African-American",12
+"59","Kentucky","All Regions","Asian",1
+"60","Kentucky","All Regions","Hispanic",3
+"61","Louisiana","All Regions","White",51
+"62","Louisiana","All Regions","African-American",44
+"63","Louisiana","All Regions","Asian",1
+"64","Louisiana","All Regions","Hispanic",3
+"65","Maryland","All Regions","White",43
+"66","Maryland","All Regions","African-American",41
+"67","Maryland","All Regions","Asian",4
+"68","Maryland","All Regions","Hispanic",11
+"69","Mississippi","All Regions","White",46
+"70","Mississippi","All Regions","African-American",46
+"71","Mississippi","All Regions","Asian",0
+"72","Mississippi","All Regions","Hispanic",1
+"73","North Carolina","All Regions","White",58
+"74","North Carolina","All Regions","African-American",29
+"75","North Carolina","All Regions","Asian",1
+"76","North Carolina","All Regions","Hispanic",8
+"77","Oklahoma","All Regions","White",72
+"78","Oklahoma","All Regions","African-American",6
+"79","Oklahoma","All Regions","Asian",2
+"80","Oklahoma","All Regions","Hispanic",6
+"81","South Carolina","All Regions","White",48
+"82","South Carolina","All Regions","African-American",35
+"83","South Carolina","All Regions","Asian",1
+"84","South Carolina","All Regions","Hispanic",3
+"85","Tennessee","All Regions","White",68
+"86","Tennessee","All Regions","African-American",27
+"87","Tennessee","All Regions","Asian",1
+"88","Tennessee","All Regions","Hispanic",5
+"89","Texas","All Regions","White",30
+"90","Texas","All Regions","African-American",11
+"91","Texas","All Regions","Asian",2
+"92","Texas","All Regions","Hispanic",56
+"93","Virginia","All Regions","White",55
+"94","Virginia","All Regions","African-American",26
+"95","Virginia","All Regions","Asian",5
+"96","Virginia","All Regions","Hispanic",9
+"97","West Virginia","All Regions","White",68
+"98","West Virginia","All Regions","African-American",3
+"99","West Virginia","All Regions","Asian",0
+"100","West Virginia","All Regions","Hispanic",0
+"101","Illinois","All Regions","White",47
+"102","Illinois","All Regions","African-American",24
+"103","Illinois","All Regions","Asian",4
+"104","Illinois","All Regions","Hispanic",19
+"105","Indiana","All Regions","White",62
+"106","Indiana","All Regions","African-American",12
+"107","Indiana","All Regions","Asian",1
+"108","Indiana","All Regions","Hispanic",2
+"109","Iowa","All Regions","White",81
+"110","Iowa","All Regions","African-American",4
+"111","Iowa","All Regions","Asian",2
+"112","Iowa","All Regions","Hispanic",5
+"113","Kansas","All Regions","White",72
+"114","Kansas","All Regions","African-American",12
+"115","Kansas","All Regions","Asian",2
+"116","Kansas","All Regions","Hispanic",13
+"117","Michigan","All Regions","White",55
+"118","Michigan","All Regions","African-American",38
+"119","Michigan","All Regions","Asian",1
+"120","Michigan","All Regions","Hispanic",3
+"121","Minnesota","All Regions","White",76
+"122","Minnesota","All Regions","African-American",9
+"123","Minnesota","All Regions","Asian",5
+"124","Minnesota","All Regions","Hispanic",5
+"125","Missouri","All Regions","White",64
+"126","Missouri","All Regions","African-American",23
+"127","Missouri","All Regions","Asian",1
+"128","Missouri","All Regions","Hispanic",3
+"129","Nebraska","All Regions","White",78
+"130","Nebraska","All Regions","African-American",7
+"131","Nebraska","All Regions","Asian",3
+"132","Nebraska","All Regions","Hispanic",19
+"133","Ohio","All Regions","White",77
+"134","Ohio","All Regions","African-American",18
+"135","Ohio","All Regions","Asian",1
+"136","Ohio","All Regions","Hispanic",2
+"137","South Dakota","All Regions","White",69
+"138","South Dakota","All Regions","African-American",1
+"139","South Dakota","All Regions","Asian",2
+"140","South Dakota","All Regions","Hispanic",2
+"141","Wisconsin","All Regions","White",76
+"142","Wisconsin","All Regions","African-American",16
+"143","Wisconsin","All Regions","Asian",3
+"144","Wisconsin","All Regions","Hispanic",11
+"145","Alaska","All Regions","White",40
+"146","Alaska","All Regions","African-American",3
+"147","Alaska","All Regions","Asian",8
+"148","Alaska","All Regions","Hispanic",2
+"149","Arizona","All Regions","White",42
+"150","Arizona","All Regions","African-American",3
+"151","Arizona","All Regions","Asian",1
+"152","Arizona","All Regions","Hispanic",30
+"153","California","All Regions","White",30
+"154","California","All Regions","African-American",7
+"155","California","All Regions","Asian",12
+"156","California","All Regions","Hispanic",48
+"157","Colorado","All Regions","White",63
+"158","Colorado","All Regions","African-American",6
+"159","Colorado","All Regions","Asian",3
+"160","Colorado","All Regions","Hispanic",23
+"161","Idaho","All Regions","White",95
+"162","Idaho","All Regions","African-American",1
+"163","Idaho","All Regions","Asian",1
+"164","Idaho","All Regions","Hispanic",12
+"165","Nevada","All Regions","White",35
+"166","Nevada","All Regions","African-American",8
+"167","Nevada","All Regions","Asian",8
+"168","Nevada","All Regions","Hispanic",16
+"169","New Mexico","All Regions","White",24
+"170","New Mexico","All Regions","African-American",1
+"171","New Mexico","All Regions","Asian",0
+"172","New Mexico","All Regions","Hispanic",25
+"173","Oregon","All Regions","White",67
+"174","Oregon","All Regions","African-American",2
+"175","Oregon","All Regions","Asian",3
+"176","Oregon","All Regions","Hispanic",13
+"177","Utah","All Regions","White",54
+"178","Utah","All Regions","African-American",2
+"179","Utah","All Regions","Asian",5
+"180","Utah","All Regions","Hispanic",21
+"181","Washington","All Regions","White",67
+"182","Washington","All Regions","African-American",3
+"183","Washington","All Regions","Asian",7
+"184","Washington","All Regions","Hispanic",14
+"185","Wyoming","All Regions","White",48
+"186","Wyoming","All Regions","African-American",2
+"187","Wyoming","All Regions","Asian",0
+"188","Wyoming","All Regions","Hispanic",4
+"189","Connecticut","Northeast","White",73
+"190","Connecticut","Northeast","African-American",15
+"191","Connecticut","Northeast","Asian",1
+"192","Connecticut","Northeast","Hispanic",9
+"193","Maine","Northeast","White",90
+"194","Maine","Northeast","African-American",3
+"195","Maine","Northeast","Asian",0
+"196","Maine","Northeast","Hispanic",1
+"197","Massachusetts","Northeast","White",76
+"198","Massachusetts","Northeast","African-American",8
+"199","Massachusetts","Northeast","Asian",2
+"200","Massachusetts","Northeast","Hispanic",7
+"201","New Hampshire","Northeast","White",91
+"202","New Hampshire","Northeast","African-American",2
+"203","New Hampshire","Northeast","Asian",1
+"204","New Hampshire","Northeast","Hispanic",3
+"205","New Jersey","Northeast","White",53
+"206","New Jersey","Northeast","African-American",18
+"207","New Jersey","Northeast","Asian",5
+"208","New Jersey","Northeast","Hispanic",20
+"209","New York","Northeast","White",31
+"210","New York","Northeast","African-American",22
+"211","New York","Northeast","Asian",6
+"212","New York","Northeast","Hispanic",24
+"213","Pennsylvania","Northeast","White",73
+"214","Pennsylvania","Northeast","African-American",20
+"215","Pennsylvania","Northeast","Asian",2
+"216","Pennsylvania","Northeast","Hispanic",6
+"217","Rhode Island","Northeast","White",65
+"218","Rhode Island","Northeast","African-American",5
+"219","Rhode Island","Northeast","Asian",1
+"220","Rhode Island","Northeast","Hispanic",10
+"221","Vermont","Northeast","White",95
+"222","Vermont","Northeast","African-American",0
+"223","Vermont","Northeast","Asian",3
+"224","Vermont","Northeast","Hispanic",0
+"225","Alabama","South","White",52
+"226","Alabama","South","African-American",37
+"227","Alabama","South","Asian",0
+"228","Alabama","South","Hispanic",3
+"229","Arkansas","South","White",62
+"230","Arkansas","South","African-American",20
+"231","Arkansas","South","Asian",1
+"232","Arkansas","South","Hispanic",6
+"233","Delaware","South","White",65
+"234","Delaware","South","African-American",26
+"235","Delaware","South","Asian",0
+"236","Delaware","South","Hispanic",8
+"237","Florida","South","White",48
+"238","Florida","South","African-American",18
+"239","Florida","South","Asian",0
+"240","Florida","South","Hispanic",25
+"241","Georgia","South","White",50
+"242","Georgia","South","African-American",41
+"243","Georgia","South","Asian",2
+"244","Georgia","South","Hispanic",6
+"245","Kentucky","South","White",77
+"246","Kentucky","South","African-American",12
+"247","Kentucky","South","Asian",1
+"248","Kentucky","South","Hispanic",3
+"249","Louisiana","South","White",51
+"250","Louisiana","South","African-American",44
+"251","Louisiana","South","Asian",1
+"252","Louisiana","South","Hispanic",3
+"253","Maryland","South","White",43
+"254","Maryland","South","African-American",41
+"255","Maryland","South","Asian",4
+"256","Maryland","South","Hispanic",11
+"257","Mississippi","South","White",46
+"258","Mississippi","South","African-American",46
+"259","Mississippi","South","Asian",0
+"260","Mississippi","South","Hispanic",1
+"261","North Carolina","South","White",58
+"262","North Carolina","South","African-American",29
+"263","North Carolina","South","Asian",1
+"264","North Carolina","South","Hispanic",8
+"265","Oklahoma","South","White",72
+"266","Oklahoma","South","African-American",6
+"267","Oklahoma","South","Asian",2
+"268","Oklahoma","South","Hispanic",6
+"269","South Carolina","South","White",48
+"270","South Carolina","South","African-American",35
+"271","South Carolina","South","Asian",1
+"272","South Carolina","South","Hispanic",3
+"273","Tennessee","South","White",68
+"274","Tennessee","South","African-American",27
+"275","Tennessee","South","Asian",1
+"276","Tennessee","South","Hispanic",5
+"277","Texas","South","White",30
+"278","Texas","South","African-American",11
+"279","Texas","South","Asian",2
+"280","Texas","South","Hispanic",56
+"281","Virginia","South","White",55
+"282","Virginia","South","African-American",26
+"283","Virginia","South","Asian",5
+"284","Virginia","South","Hispanic",9
+"285","West Virginia","South","White",68
+"286","West Virginia","South","African-American",3
+"287","West Virginia","South","Asian",0
+"288","West Virginia","South","Hispanic",0
+"289","Illinois","Midwest","White",47
+"290","Illinois","Midwest","African-American",24
+"291","Illinois","Midwest","Asian",4
+"292","Illinois","Midwest","Hispanic",19
+"293","Indiana","Midwest","White",62
+"294","Indiana","Midwest","African-American",12
+"295","Indiana","Midwest","Asian",1
+"296","Indiana","Midwest","Hispanic",2
+"297","Iowa","Midwest","White",81
+"298","Iowa","Midwest","African-American",4
+"299","Iowa","Midwest","Asian",2
+"300","Iowa","Midwest","Hispanic",5
+"301","Kansas","Midwest","White",72
+"302","Kansas","Midwest","African-American",12
+"303","Kansas","Midwest","Asian",2
+"304","Kansas","Midwest","Hispanic",13
+"305","Michigan","Midwest","White",55
+"306","Michigan","Midwest","African-American",38
+"307","Michigan","Midwest","Asian",1
+"308","Michigan","Midwest","Hispanic",3
+"309","Minnesota","Midwest","White",76
+"310","Minnesota","Midwest","African-American",9
+"311","Minnesota","Midwest","Asian",5
+"312","Minnesota","Midwest","Hispanic",5
+"313","Missouri","Midwest","White",64
+"314","Missouri","Midwest","African-American",23
+"315","Missouri","Midwest","Asian",1
+"316","Missouri","Midwest","Hispanic",3
+"317","Nebraska","Midwest","White",78
+"318","Nebraska","Midwest","African-American",7
+"319","Nebraska","Midwest","Asian",3
+"320","Nebraska","Midwest","Hispanic",19
+"321","Ohio","Midwest","White",77
+"322","Ohio","Midwest","African-American",18
+"323","Ohio","Midwest","Asian",1
+"324","Ohio","Midwest","Hispanic",2
+"325","South Dakota","Midwest","White",69
+"326","South Dakota","Midwest","African-American",1
+"327","South Dakota","Midwest","Asian",2
+"328","South Dakota","Midwest","Hispanic",2
+"329","Wisconsin","Midwest","White",76
+"330","Wisconsin","Midwest","African-American",16
+"331","Wisconsin","Midwest","Asian",3
+"332","Wisconsin","Midwest","Hispanic",11
+"333","Alaska","West","White",40
+"334","Alaska","West","African-American",3
+"335","Alaska","West","Asian",8
+"336","Alaska","West","Hispanic",2
+"337","Arizona","West","White",42
+"338","Arizona","West","African-American",3
+"339","Arizona","West","Asian",1
+"340","Arizona","West","Hispanic",30
+"341","California","West","White",30
+"342","California","West","African-American",7
+"343","California","West","Asian",12
+"344","California","West","Hispanic",48
+"345","Colorado","West","White",63
+"346","Colorado","West","African-American",6
+"347","Colorado","West","Asian",3
+"348","Colorado","West","Hispanic",23
+"349","Idaho","West","White",95
+"350","Idaho","West","African-American",1
+"351","Idaho","West","Asian",1
+"352","Idaho","West","Hispanic",12
+"353","Nevada","West","White",35
+"354","Nevada","West","African-American",8
+"355","Nevada","West","Asian",8
+"356","Nevada","West","Hispanic",16
+"357","New Mexico","West","White",24
+"358","New Mexico","West","African-American",1
+"359","New Mexico","West","Asian",0
+"360","New Mexico","West","Hispanic",25
+"361","Oregon","West","White",67
+"362","Oregon","West","African-American",2
+"363","Oregon","West","Asian",3
+"364","Oregon","West","Hispanic",13
+"365","Utah","West","White",54
+"366","Utah","West","African-American",2
+"367","Utah","West","Asian",5
+"368","Utah","West","Hispanic",21
+"369","Washington","West","White",67
+"370","Washington","West","African-American",3
+"371","Washington","West","Asian",7
+"372","Washington","West","Hispanic",14
+"373","Wyoming","West","White",48
+"374","Wyoming","West","African-American",2
+"375","Wyoming","West","Asian",0
+"376","Wyoming","West","Hispanic",4
